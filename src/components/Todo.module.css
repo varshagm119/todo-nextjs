@@ -1,0 +1,19 @@
+.inpt {
+    display: flex;
+    align-items: center;
+    size: 20px;
+    width: 800px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: black;
+    margin: 30px;
+    padding: 25px;
+    gap: 10px;
+}
+
+.inputBox {
+    width: 600px;
+    height: 50px;
+    gap: 0px;
+    background-color: aliceblue;
+}
